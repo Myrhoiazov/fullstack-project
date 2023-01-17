@@ -8,8 +8,15 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon server.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myrhoiazov/fullstack-project.git"
+  },
   "author": "Denys Myrhoiazov",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myrhoiazov/fullstack-project/issues"
+  },
   "devDependencies": {
     "nodemon": "^2.0.7"
   },
